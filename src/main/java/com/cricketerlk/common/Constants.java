@@ -6,5 +6,6 @@ package com.cricketerlk.common;
 public class Constants {
 
     public  static final String IMAGE_UPLOAD_PATH = "IMAGE_UPLOAD_PATH";
+    public  static final String TEST_CONFIG = "TEST_CONFIG";
 
 }
